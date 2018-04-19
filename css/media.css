@@ -1,0 +1,124 @@
+/* 
+CSS Style sheet
+Ver. 1.0
+Author: Nishant Dogra
+Initial built: 09-10-2017
+Updated: 16-04-2018
+*/
+
+/* Media 30 inch ChromeBook & iMac View */
+@media (max-width: 2560px) {
+	
+}
+
+/* Media 24 inch Desktop View */
+@media (max-width: 1920px) {
+}
+
+/* Media 22 inch Desktop View */
+@media (max-width: 1680px) {
+}
+
+/* Media 20 inch Desktop View */
+@media (max-width: 1600px) {
+}
+
+/* Media 19 inch Desktop View */
+@media (max-width: 1440px) {
+}
+
+/* Media 18 inch Desktop View */
+@media (max-width: 1400px) {
+}
+
+/* Media 15 inch Notebook View */
+@media (max-width: 1366px) {
+}
+
+/* Media 13 inch Notebook View + Kindle HD */
+@media (max-width: 1280px) {
+}
+
+/* Media Bootstrap screen-medium View */
+@media (max-width: 1200px) {
+}
+
+/* Media 12 inch & 10 inch Notebook View */
+@media (max-width: 1052px) {
+}
+
+/* Media 12 inch & 10 inch Notebook View */
+@media (max-width: 1024px) {
+}
+
+/* Media Bootstrap screen-small View */
+@media (max-width: 992px) {
+}
+
+/* Media Bootstrap screen-small View breakdown */
+@media (max-width: 991px) {
+}
+
+/* Media old Monitor View */
+@media (max-width: 980px) {
+}
+
+/* Media old Monitor VGA View */
+@media (max-width: 900px) {
+}
+
+/* Media 8.9 inch Kindle HD View */
+@media (max-width: 800px) {
+}
+
+/* Media Apple iPAD View */
+@media (max-width: 768px) {
+	.header-canvas h1 { font-size: 50px; margin-top: 30px;} 
+}
+
+/* Media Bootstrap extra-small View */
+@media (max-width: 767px) {
+}
+
+/* Media Apple iPhone 6+ Landscape View */
+@media (max-width: 736px) {
+}
+
+/* Media Apple iPhone 6 Landscape View */
+@media (max-width: 667px) {
+}
+
+/* Media Android Landscape View */
+@media (max-width: 640px) {
+}
+
+/* Media Tab Landscape View */
+@media (max-width: 568px) {
+}
+
+/* Media Apple Landscape View */
+@media (max-width: 514px) {
+}
+
+/* Media Android Landscape View */
+@media (max-width: 480px) {
+}
+
+/* Media Apple iPhone 6+ Portrait View */
+@media (max-width: 418px) {
+}
+
+/* Media Apple iPhone 6 Portrait View */
+@media (max-width: 375px) {
+}
+
+/* Media Android Portrait View */
+@media (max-width: 360px) {
+}
+
+/* Media Android Portrait View */
+@media (max-width: 320px) {
+}
+
+@media only screen and (min-width:1052px) and (max-width: 1200px) {
+}
