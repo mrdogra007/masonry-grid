@@ -1,3 +1,13 @@
+## About theme
+```markdown
+Masonry grid layout is the grid structure that will fit into the columns and rows inside.
+Theme is based upon the Bootstrap 4.0 Masonry grid.
+If you are looking for full featured theme ask me!
+```
+
+## Live Preview
+https://github.com/mrdogra007/masonry-grid
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrdogra007/masonry-grid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
