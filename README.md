@@ -39,8 +39,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Creator: Nishant Dogra
 
 https://twitter.com/mrdogra007
+
 https://github.com/mrdogra007
+
 https://www.behance.net/mrdogra007
+
 http://codepen.io/mrdogra007
 
 Copyright and license
