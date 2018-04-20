@@ -6,7 +6,7 @@ If you are looking for full featured theme ask me!
 ```
 
 ## Live Preview
-https://github.com/mrdogra007/masonry-grid
+https://mrdogra007.github.io/masonry-grid/
 
 ## Welcome to GitHub Pages
 
